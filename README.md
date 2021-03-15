@@ -1,4 +1,1 @@
-# Will's Wacky website - static version
-## Personal website for fork testing
-
-Fork, download and destroy
+#de link: https://qfga2000.github.io/will-wacky-website/
